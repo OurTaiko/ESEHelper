@@ -2,11 +2,11 @@
 const translations = {
   'zh-CN': {
     // 页面标题和元信息
-    title: 'TJA-Tatsujin',
+    title: 'ESEHelper',
 
     // 页面头部
     githubTitle: '查看项目源码',
-    headerTitle: 'TJA-Tatsujin',
+    headerTitle: 'ESEHelper',
 
     // 主要内容
     searchPlaceholder: '输入搜索关键字',
@@ -71,11 +71,11 @@ const translations = {
 
   'en': {
     // 页面标题和元信息
-    title: 'TJA-Tatsujin',
+    title: 'ESEHelper',
 
     // 页面头部
     githubTitle: 'View source code',
-    headerTitle: 'TJA-Tatsujin',
+    headerTitle: 'ESEHelper',
 
     // 主要内容
     searchPlaceholder: 'Enter search keywords',
@@ -140,11 +140,11 @@ const translations = {
 
   'ja': {
     // 页面标题和元信息
-    title: 'TJA-Tatsujin',
+    title: 'ESEHelper',
 
     // 页面头部
     githubTitle: 'ソースコードを見る',
-    headerTitle: 'TJA-Tatsujin',
+    headerTitle: 'ESEHelper',
 
     // 主要内容
     searchPlaceholder: '検索キーワードを入力',

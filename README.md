@@ -1,4 +1,4 @@
-# TJA-Tatsujin
+# ESEHelper
 
 [English](./docs/README.en.md) | [日本語](./docs/README.ja.md) | 中文
 
@@ -8,7 +8,7 @@
 
 ## 🚀 项目简介
 
-TJA-Tatsujin 是一个基于 Cloudflare Pages 部署的静态网页项目，旨在为太鼓达人玩家提供一个清晰、易用的谱面下载平台。
+ESEHelper 是一个基于 Cloudflare Pages 部署的静态网页项目，旨在为太鼓达人玩家提供一个清晰、易用的谱面下载平台。
 
 所有数据均来自公开资源，仅供学习与交流使用，请尊重原作者版权。
 
@@ -48,7 +48,7 @@ TJA-Tatsujin 是一个基于 Cloudflare Pages 部署的静态网页项目，旨�
 欢迎提交 Issue 或 Pull Request 来帮助改进本项目！
 无论是修正别名、优化界面，还是增强搜索功能，我们都十分感激。
 
-- 提交问题 → [Issues](https://github.com/KirisameVanilla/TJA-Tatsujin/issues)
+- 提交问题 → [Issues](https://github.com/KirisameVanilla/ESEHelper/issues)
 - 参与贡献 → Fork 本项目并提交 PR
 
 ---

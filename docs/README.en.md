@@ -1,4 +1,4 @@
-# TJA-Tatsujin
+# ESEHelper
 
 English | [日本語](./README.ja.md) | [中文](../README.md)
 
@@ -8,7 +8,7 @@ A resource download site for Taiko no Tatsujin players, providing convenient cha
 
 ## 🚀 Project Overview
 
-TJA-Tatsujin is a static web project deployed on Cloudflare Pages, aiming to provide a clear and user-friendly chart download platform for Taiko no Tatsujin players.
+ESEHelper is a static web project deployed on Cloudflare Pages, aiming to provide a clear and user-friendly chart download platform for Taiko no Tatsujin players.
 
 All data comes from public resources and is for learning and communication purposes only. Please respect the original authors' copyrights.
 
@@ -48,7 +48,7 @@ Follow the existing format in the file for additions or modifications, and ensur
 Feel free to submit Issues or Pull Requests to help improve this project!
 Whether it's fixing aliases, optimizing the UI, or enhancing search features, your contributions are greatly appreciated.
 
-- Submit Issues → [Issues](https://github.com/KirisameVanilla/TJA-Tatsujin/issues)
+- Submit Issues → [Issues](https://github.com/KirisameVanilla/ESEHelper/issues)
 - Contribute → Fork this project and submit a PR
 
 ---

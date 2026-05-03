@@ -1,4 +1,4 @@
-# TJA-Tatsujin
+# ESEHelper
 
 [English](./README.en.md) | 日本語 | [中文](../README.md)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 プロジェクト概要
 
-TJA-Tatsujinは、Cloudflare Pagesにデプロイされた静的Webプロジェクトです。太鼓の達人プレイヤーに明確で使いやすい譜面ダウンロードプラットフォームを提供することを目的としています。
+ESEHelperは、Cloudflare Pagesにデプロイされた静的Webプロジェクトです。太鼓の達人プレイヤーに明確で使いやすい譜面ダウンロードプラットフォームを提供することを目的としています。
 
 すべてのデータはユーザーが設定した公開リソースから取得され、学習・交流目的でのみ使用されます。原作者の著作権を尊重してください。
 
@@ -49,7 +49,7 @@ TJA-Tatsujinは、Cloudflare Pagesにデプロイされた静的Webプロジェ�
 このプロジェクトの改善にご協力いただける方は、IssueやPull Requestの提出をお待ちしています！
 エイリアスの修正、UIの最適化、検索機能の強化など、どのような貢献も大歓迎です。
 
-- Issue報告 → [Issues](https://github.com/KirisameVanilla/TJA-Tatsujin/issues)
+- Issue報告 → [Issues](https://github.com/KirisameVanilla/ESEHelper/issues)
 - 貢献 → このプロジェクトをForkしてPRを提出してください
 
 ---
