@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
+import { svelte } from '@sveltejs/vite-plugin-svelte';
 import tailwindcss from '@tailwindcss/vite';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -47,14 +48,15 @@ export default {
       }
     }
   },
-  plugins: [minifyJsonPlugin(), tailwindcss()],
+  plugins: [svelte(), minifyJsonPlugin(), tailwindcss()],
   define: {
     global: 'globalThis'
   },
   resolve: {
     alias: {
       path: 'path-browserify',
-      fs: false
+      fs: false,
+      $lib: path.resolve(__dirname, 'src/lib')
     }
   }
 };

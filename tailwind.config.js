@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}', './main.js', './confirm-dialog.js', './*.html'],
+  content: ['./index.html', './src/**/*.{js,ts,svelte}', './*.html'],
   theme: {
     extend: {
       spacing: {

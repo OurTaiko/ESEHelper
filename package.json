@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/KirisameVanilla/TJA-Tatsujin-Web#readme",
   "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^6.2.4",
     "path-browserify": "^1.0.1",
+    "svelte": "^5.0.0",
     "vite": "^7.0.6"
   },
   "dependencies": {
