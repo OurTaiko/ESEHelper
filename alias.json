@@ -2124,6 +2124,10 @@
         "alias": [],
         "path": "09 Namco Original/Dark Ex Machina"
     },
+    "Dark Ex XXXXXXX": {
+        "alias": [],
+        "path": "09 Namco Original/Dark Ex XXXXXXX"
+    },
     "Darling": {
         "alias": [],
         "path": "01 Pop/Darling"
@@ -3013,6 +3017,10 @@
         "alias": [],
         "path": "09 Namco Original/GERMINATION"
     },
+    "GET BACK": {
+        "alias": [],
+        "path": "04 Children and Folk/GET BACK"
+    },
     "GIGALODOON": {
         "alias": [],
         "path": "09 Namco Original/GIGALODOON"
@@ -3794,6 +3802,10 @@
         "alias": [],
         "path": "01 Pop/Hello, world!"
     },
+    "Help Ex Machina": {
+        "alias": [],
+        "path": "09 Namco Original/Help Ex Machina"
+    },
     "Help me Saitama 2000": {
         "alias": [
             "帮帮我，埼玉2000"
@@ -4066,6 +4078,10 @@
         "alias": [],
         "path": "09 Namco Original/Houou Tenbu Mugen Kuzure"
     },
+    "How To Play": {
+        "alias": [],
+        "path": "09 Namco Original/How To Play"
+    },
     "Howling": {
         "alias": [],
         "path": "02 Anime/Howling"
@@ -4093,6 +4109,10 @@
     "Hurricaneger Sanjou!": {
         "alias": [],
         "path": "02 Anime/Hurricaneger Sanjou!"
+    },
+    "Hurtling Beams": {
+        "alias": [],
+        "path": "09 Namco Original/Hurtling Beams"
     },
     "Hurtling Boys": {
         "alias": [],
@@ -4766,6 +4786,10 @@
         "alias": [],
         "path": "07 Game Music/Kakenukete-yuku"
     },
+    "Kakumei Douchuu": {
+        "alias": [],
+        "path": "02 Anime/Kakumei Douchuu"
+    },
     "Kakushinteki☆Metamaruphose!": {
         "alias": [],
         "path": "02 Anime/Kakushinteki☆Metamaruphose!"
@@ -5002,6 +5026,10 @@
     "Ketsui no Asa ni": {
         "alias": [],
         "path": "01 Pop/Ketsui no Asa ni"
+    },
+    "Keys": {
+        "alias": [],
+        "path": "09 Namco Original/Keys"
     },
     "Ki ga Tsukeba Anata": {
         "alias": [],
@@ -5712,6 +5740,10 @@
         "alias": [],
         "path": "01 Pop/Lifetime Respect -Onna Hen-"
     },
+    "Lightning Beams": {
+        "alias": [],
+        "path": "09 Namco Original/Lightning Beams"
+    },
     "Lightning Boys": {
         "alias": [],
         "path": "09 Namco Original/Lightning Boys"
@@ -5731,6 +5763,10 @@
     "Linda Linda": {
         "alias": [],
         "path": "01 Pop/Linda Linda"
+    },
+    "Linda wa Kyou mo Zeffuchou": {
+        "alias": [],
+        "path": "09 Namco Original/Linda wa Kyou mo Zeffuchou"
     },
     "Linda wa Kyou mo Zekkouchou": {
         "alias": [],
@@ -6781,6 +6817,10 @@
     "Natsu no Donasama": {
         "alias": [],
         "path": "01 Pop/Natsu no Donasama"
+    },
+    "Natsumatsuri": {
+        "alias": [],
+        "path": "01 Pop/Natsumatsuri"
     },
     "Natsumono☆": {
         "alias": [],
@@ -7975,6 +8015,10 @@
         "alias": [],
         "path": "07 Game Music/Revenge of Meta Knight Medley"
     },
+    "Revival Drumroll": {
+        "alias": [],
+        "path": "09 Namco Original/Revival Drumroll"
+    },
     "Reviver": {
         "alias": [],
         "path": "09 Namco Original/Reviver"
@@ -8857,6 +8901,10 @@
         "alias": [],
         "path": "04 Children and Folk/Silent Night"
     },
+    "Silhouette": {
+        "alias": [],
+        "path": "02 Anime/Silhouette"
+    },
     "Singing Rabbit Swinging": {
         "alias": [],
         "path": "09 Namco Original/Singing Rabbit Swinging"
@@ -9027,6 +9075,10 @@
         "alias": [],
         "path": "07 Game Music/Spread the Wings!!"
     },
+    "Spurt Syndromer": {
+        "alias": [],
+        "path": "02 Anime/Spurt Syndromer"
+    },
     "Spurt!": {
         "alias": [],
         "path": "02 Anime/Spurt!"
@@ -9142,6 +9194,10 @@
     "Suki na Hito ga Iru Koto": {
         "alias": [],
         "path": "01 Pop/Suki na Hito ga Iru Koto"
+    },
+    "Sukisugite Metsu!": {
+        "alias": [],
+        "path": "01 Pop/Sukisugite Metsu!"
     },
     "Summer Dude": {
         "alias": [],
@@ -10177,7 +10233,7 @@
     },
     "Turing Love": {
         "alias": [],
-        "path": "02 Anime/Turing Love"
+        "path": "01 Pop/Turing Love"
     },
     "Turkish March (Beethoven)": {
         "alias": [],
@@ -10507,7 +10563,7 @@
     },
     "Viva! Spark! Tropical-Rouge! Pretty Cure": {
         "alias": [],
-        "path": "02 Anime/Viva! Spark! Tropical-Rouge! Pretty Cure"
+        "path": "04 Children and Folk/Viva! Spark! Tropical-Rouge! Pretty Cure"
     },
     "Vixtory": {
         "alias": [],
@@ -10973,6 +11029,10 @@
         "alias": [],
         "path": "09 Namco Original/Yell Ex Machina"
     },
+    "Yell Ex XXXXXXX": {
+        "alias": [],
+        "path": "09 Namco Original/Yell Ex XXXXXXX"
+    },
     "Yes": {
         "alias": [],
         "path": "01 Pop/Yes"
@@ -11388,6 +11448,10 @@
     "memoria ficta": {
         "alias": [],
         "path": "09 Namco Original/memoria ficta"
+    },
+    "middle of the middle": {
+        "alias": [],
+        "path": "09 Namco Original/middle of the middle"
     },
     "mint tears": {
         "alias": [],
