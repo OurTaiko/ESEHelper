@@ -3265,7 +3265,7 @@
     },
     "Gingira Ginga": {
         "alias": [],
-        "path": "02 Anime/Gingira Ginga"
+        "path": "04 Children and Folk/Gingira Ginga"
     },
     "Giniro no Sora": {
         "alias": [],
@@ -5321,6 +5321,10 @@
         "alias": [],
         "path": "01 Pop/Koi no Tsubomi"
     },
+    "Koi no Yakusoku -2025ver.-": {
+        "alias": [],
+        "path": "01 Pop/Koi no Yakusoku -2025ver.-"
+    },
     "Koi o Shichaimashita!": {
         "alias": [],
         "path": "01 Pop/Koi o Shichaimashita!"
@@ -6192,7 +6196,7 @@
     },
     "Mashin Sentai Kiramager": {
         "alias": [],
-        "path": "02 Anime/Mashin Sentai Kiramager"
+        "path": "04 Children and Folk/Mashin Sentai Kiramager"
     },
     "Mata Ai Mashou": {
         "alias": [],
@@ -8897,6 +8901,10 @@
         "alias": [],
         "path": "02 Anime/Shugo Shugo!"
     },
+    "Shugoi Suki!": {
+        "alias": [],
+        "path": "01 Pop/Shugoi Suki!"
+    },
     "Shukufuku": {
         "alias": [],
         "path": "02 Anime/Shukufuku"
@@ -8975,7 +8983,7 @@
     },
     "Smile! Smile! Smile!": {
         "alias": [],
-        "path": "02 Anime/Smile! Smile! Smile!"
+        "path": "04 Children and Folk/Smile! Smile! Smile!"
     },
     "Snow halation": {
         "alias": [],
@@ -9388,6 +9396,10 @@
     "Sync Your World": {
         "alias": [],
         "path": "07 Game Music/Sync Your World"
+    },
+    "Synchronica Airline": {
+        "alias": [],
+        "path": "07 Game Music/Synchronica Airline"
     },
     "Synchronica Airlines": {
         "alias": [],
@@ -11304,6 +11316,10 @@
     "ZOMEKI THUNDER": {
         "alias": [],
         "path": "09 Namco Original/ZOMEKI THUNDER"
+    },
+    "ZOO": {
+        "alias": [],
+        "path": "02 Anime/ZOO"
     },
     "Zankoku na Yoru ni Kagayake": {
         "alias": [],
