@@ -1058,6 +1058,10 @@
         "alias": [],
         "path": "07 Game Music/Battle -Denkousekka-"
     },
+    "Battle Without Honor or Humanity": {
+        "alias": [],
+        "path": "05 Variety/Battle Without Honor or Humanity"
+    },
     "Battle for Justice": {
         "alias": [],
         "path": "07 Game Music/Battle for Justice"
@@ -3497,6 +3501,10 @@
         "alias": [],
         "path": "01 Pop/Habit"
     },
+    "Hacha Mecha Wacha Life!": {
+        "alias": [],
+        "path": "01 Pop/Hacha Mecha Wacha Life!"
+    },
     "Hachigatsu no Saka": {
         "alias": [],
         "path": "01 Pop/Hachigatsu no Saka"
@@ -4146,7 +4154,7 @@
     },
     "Hypnosis Mic -Division Battle Anthem-": {
         "alias": [],
-        "path": "01 Pop/Hypnosis Mic -Division Battle Anthem-"
+        "path": "05 Variety/Hypnosis Mic -Division Battle Anthem-"
     },
     "I LOVE": {
         "alias": [],
@@ -7214,7 +7222,7 @@
     },
     "Omae Butamen!": {
         "alias": [],
-        "path": "01 Pop/Omae Butamen!"
+        "path": "05 Variety/Omae Butamen!"
     },
     "Omatsuri Ninja": {
         "alias": [],
@@ -8014,6 +8022,10 @@
     "Reitouko CJ ～Amen Taiko Brothers～": {
         "alias": [],
         "path": "09 Namco Original/Reitouko CJ ～Amen Taiko Brothers～"
+    },
+    "Remnath": {
+        "alias": [],
+        "path": "07 Game Music/Remnath"
     },
     "Renai Revolution 21": {
         "alias": [],
@@ -9865,6 +9877,10 @@
         "alias": [],
         "path": "07 Game Music/The Dragon Knights"
     },
+    "The Encounter Code": {
+        "alias": [],
+        "path": "07 Game Music/The Encounter Code"
+    },
     "The Entertainer": {
         "alias": [],
         "path": "06 Classical/The Entertainer"
@@ -10851,6 +10867,10 @@
         "alias": [],
         "path": "09 Namco Original/What’s in the Box"
     },
+    "When Enemies Collapse": {
+        "alias": [],
+        "path": "07 Game Music/When Enemies Collapse"
+    },
     "When the Saints Go Marching In": {
         "alias": [],
         "path": "06 Classical/When the Saints Go Marching In"
@@ -10924,6 +10944,10 @@
     "World is Mine": {
         "alias": [],
         "path": "03 Vocaloid/World is Mine"
+    },
+    "World is Mine CPK! Remix (Kaguya & Lunami Yachiyo ver.)": {
+        "alias": [],
+        "path": "02 Anime/World is Mine CPK! Remix (Kaguya & Lunami Yachiyo ver.)"
     },
     "World of Genpei Touma Den": {
         "alias": [],
@@ -11508,6 +11532,10 @@
     "liveDevil": {
         "alias": [],
         "path": "04 Children and Folk/liveDevil"
+    },
+    "ln(guis·tics)": {
+        "alias": [],
+        "path": "07 Game Music/ln(guis·tics)"
     },
     "maximum the hormone": {
         "alias": [],
