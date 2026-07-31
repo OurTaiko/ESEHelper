@@ -3956,7 +3956,7 @@
     },
     "Himitsuki-tuber": {
         "alias": [],
-        "path": "07 Game Music/Himitsuki-tuber"
+        "path": "04 Children and Folk/Himitsuki-tuber"
     },
     "Hinaru Medjed no Hinaru Yuuutsu": {
         "alias": [],
@@ -6747,6 +6747,10 @@
     "NO MORE CRY": {
         "alias": [],
         "path": "01 Pop/NO MORE CRY"
+    },
+    "NON STOP": {
+        "alias": [],
+        "path": "01 Pop/NON STOP"
     },
     "NaNaNa": {
         "alias": [],
@@ -11426,6 +11430,10 @@
             "续组曲2000"
         ],
         "path": "09 Namco Original/Zoku Shimedore 2000"
+    },
+    "Zoo": {
+        "alias": [],
+        "path": "02 Anime/Zoo"
     },
     "Zouo to Shuuaku no Hanataba": {
         "alias": [
