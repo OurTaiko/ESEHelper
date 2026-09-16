@@ -4321,7 +4321,7 @@
     },
     "Go Go Yuureisen": {
         "alias": [],
-        "path": "01 Pop/Go Go Yuureisen"
+        "path": "05 Variety/Go Go Yuureisen"
     },
     "Go!!!": {
         "alias": [],
@@ -8092,6 +8092,10 @@
         "alias": [],
         "path": "01 Pop/Mayday"
     },
+    "Mayoizuki": {
+        "alias": [],
+        "path": "09 Namco Original/Mayoizuki"
+    },
     "Mayonaka no Door Stay with me": {
         "alias": [],
         "path": "01 Pop/Mayonaka no Door Stay with me"
@@ -9073,6 +9077,10 @@
     "Niramekko": {
         "alias": [],
         "path": "01 Pop/Niramekko"
+    },
+    "Nivalis Anima": {
+        "alias": [],
+        "path": "09 Namco Original/Nivalis Anima"
     },
     "No Boy No Cry": {
         "alias": [],
@@ -11440,6 +11448,10 @@
     "Silhouette": {
         "alias": [],
         "path": "02 Anime/Silhouette"
+    },
+    "Silver Dawn Throne or Black Night Petalstone": {
+        "alias": [],
+        "path": "09 Namco Original/Silver Dawn Throne or Black Night Petalstone"
     },
     "Singing Rabbit Swinging": {
         "alias": [],
